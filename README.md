@@ -374,19 +374,3 @@ Contributions are welcome! Feel free to:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-## 🙏 Acknowledgments
-
-Special thanks to the machine learning community for decades of research making clustering accessible to everyone.
-
----
-
-<div align="center">
-
-**Made with ❤️ for learners everywhere**
-
-*"In the middle of difficulty lies opportunity."* - Albert Einstein
-
-[⬆ Back to top](#k-means-clustering-from-scratch-)
-
-</div>
